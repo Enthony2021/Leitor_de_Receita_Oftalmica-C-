@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1506695890 source:c:\users\usuario\desktop\ufrn\(c++) - livres\oticageral\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+
+1507552790 source:i:\lógica de programação\oticageral\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<cmath>
+
+1507552790 source:e:\lógica de programação\oticageral\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<cmath>
+
+1507552790 source:f:\lógica de programação\oticageral\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<cmath>
+
+1511102226 source:i:\programas e planilhas finalizadas\oticageral\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<cmath>
+
+1511453700 source:i:\programas e planilhas finalizadas\Óticageral\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<cmath>
+
